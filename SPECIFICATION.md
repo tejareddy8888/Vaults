@@ -1,0 +1,1 @@
+Moved: [https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/SPECIFICATION.md](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/SPECIFICATION.md)
